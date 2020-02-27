@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"grpc-test/proto"
+	"github.com/weeksontheweb/grpc-test/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
